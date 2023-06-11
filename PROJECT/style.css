@@ -1,0 +1,83 @@
+.navbar{
+    height:230px;
+    background-color: rgb(28, 60, 122);
+    display:flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.welcome{
+    background-image: url("welcome.webp");
+    width:500px;
+    height:230px;
+    background-size: cover;
+}
+.search{
+    background-color:white;
+    height:60px;
+    width:500px;
+}
+.search_size{
+    width:400px;
+    height:40px;
+}
+.main_content{
+    background-image: url("sachdeva.png");
+    margin:auto;
+    width:50vw;
+    height:500px;
+    background-color: rgb(28,60,122);
+}
+.box{
+    height:400px;
+    border:20px solid black;
+    width:40%;
+    background-color: rgb(221, 219, 236);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding:20px 0px 15px;
+    
+}
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(28,60,122);
+}
+.box-image1{
+    background-image: url("box1.png");
+    height:300px;
+}
+.box-image2{
+    background-image: url("box2.png");
+    height:300px;
+}
+.shop{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(28,60,122);
+}
+.box-image3{
+    background-image: url("box3.png");
+    height:300px;
+}
+.box-image4{
+    background-image: url("box4.png");
+    height:300px;
+}
+.shopping{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(28,60,122);
+}
+.box-image5{
+    background-image: url("box5.png");
+    height:300px;
+}
+.box-image6{
+    background-image: url("box6.png");
+    height:300px;
+}
+.footer{
+    font-size: 20px;
+    height:200px;
+    background-color: rgb(28,60,112);
+    color:white;
+}
